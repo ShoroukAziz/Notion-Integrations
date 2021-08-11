@@ -1,2 +1,2 @@
-# Google-Tasks-to-Notion-Integration
+# Notion-Integrations
 a script that moves all tasks from Google Tasks into a Notion database and then deletes the moved tasks
