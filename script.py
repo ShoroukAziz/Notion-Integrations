@@ -1,5 +1,5 @@
 #############################################################################
-# Github (https://github.com/ShoroukAziz/Google-Tasks-to-Notion-Integration)
+# Github (https://github.com/ShoroukAziz/Notion-Integrations)
 # Copyright (c) 2020 Shorouk Abdelaziz (https://shorouk.dev)
 #############################################################################
 import requests
